@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20240530_2",
+    "title": "AtCoder Daily Training EASY 2024/05/30 18:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20240530_2"
+  },
+  "tasks": [
+    {
+      "id": "abc285_a",
+      "label": "A",
+      "title": "Edge Checker 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20240530_2/tasks/abc285_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "Main.kt"
+      }
+    },
+    {
+      "id": "abc252_a",
+      "label": "B",
+      "title": "ASCII code",
+      "url": "https://atcoder.jp/contests/adt_easy_20240530_2/tasks/abc252_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "Main.kt"
+      }
+    },
+    {
+      "id": "abc240_b",
+      "label": "C",
+      "title": "Count Distinct Integers",
+      "url": "https://atcoder.jp/contests/adt_easy_20240530_2/tasks/abc240_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "Main.kt"
+      }
+    },
+    {
+      "id": "abc222_b",
+      "label": "D",
+      "title": "Failing Grade",
+      "url": "https://atcoder.jp/contests/adt_easy_20240530_2/tasks/abc222_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "Main.kt"
+      }
+    },
+    {
+      "id": "abc242_c",
+      "label": "E",
+      "title": "1111gal password",
+      "url": "https://atcoder.jp/contests/adt_easy_20240530_2/tasks/abc242_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "Main.kt"
+      }
+    }
+  ]
+}
